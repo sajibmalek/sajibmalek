@@ -1,16 +1,27 @@
 ### Hi there 👋
+    Asalamalakum...
+    
+I am Md. Abdul Malek. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
 
-<!--
-**sajibmalek/sajibmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+****
+Skills I have
 
-Here are some ideas to get you started:
+Languages : C, C++, Java, Dart,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks : Flutter
+
+Database: MySQL
+
+Strong knowledge in RESTful web-services/API
+ 
+Adobe XD & Figma for UI/UX
+
+Proper knowledge of Github
+
+Reach me at
+
+Email : a.malek0317@gmail.com
+
+LinkedIn      
+https://www.linkedin.com/in/abdulmaleklive/
+
