@@ -1,6 +1,7 @@
 ### Hi there 👋
     Asalamalakum...
-    
+    ### hredhayxz! :wave:
+<img src="https://komarev.com/ghpvc/?username=sajibmalek&label=Views&color=a4c639&style=plastic" alt="sajibmalek" />    
 I am Md. Abdul Malek. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.
 
 ****
